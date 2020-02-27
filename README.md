@@ -17,8 +17,8 @@ This repository contains the script that was used to explore the Kaggle data set
  
  #### Repository content
 * airbnb.ipynb: Notebook containing the exploratory and explanatory analyses of the data sets. The notebook uses CRSP-DM process (Cross Industry Process for Data Mining).
-* data/boston: Contains zip files about Boston Airbnb.
-* data/seattle: Contains 'zip files about Seattle Airbnb.
+* boston.zip: Contains zip files about Boston Airbnb.
+* seattle.zip: Contains 'zip files about Seattle Airbnb.
 
  
  
