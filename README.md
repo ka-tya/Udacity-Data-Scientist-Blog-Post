@@ -2,7 +2,7 @@
 all the scripts related to Udacity Project 1: Write a Blog Post
 
 ## AirBnB: pricing strategies in Boston and Seattle
-Here is the blog post on the topic: 
+Here is the blog post on the topic: https://medium.com/@katya.h/airbnb-pricing-strategies-in-boston-and-seattle-dcfab6108874
 
 This repository contains the script that was used to explore the Kaggle data sets and have an attemt of price predictions.
 
