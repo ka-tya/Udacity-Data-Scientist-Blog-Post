@@ -31,5 +31,5 @@ _____________
 
 #### Conclusion
 _______________
-* The two data sets show clear differences between the pricing policies, seasonality and types of travels .
-* Unlocking the reasons behind the prices and being able to predict them might be much more challenging than it seems at first. The keys to success are domain knowledge and cleaned data set.
+* Both data sets show clear differences between the pricing, seasonality and types of travel.
+* Unlocking the reasons behind the prices and being able to predict them might be more challenging than it seems at first. The keys to success are domain knowledge and cleansed data.
